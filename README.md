@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/anis-safia">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="[https://www.twitter.com/mrdebonairfox](https://twitter.com/AnisSafia6?t=m-8g3Uj3rcMoW3RaIeLPkg&s=09)">
+  <a href="https://twitter.com/AnisSafia6?t=m-8g3Uj3rcMoW3RaIeLPkg&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
   </a>&nbsp;
   <a href="https://www.instagram.com/anissafia1>
