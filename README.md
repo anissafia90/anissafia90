@@ -52,7 +52,7 @@
   <a href="https://twitter.com/AnisSafia6?t=m-8g3Uj3rcMoW3RaIeLPkg&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/anissafia1>
+  <a href="https://www.instagram.com/anissafia1">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
   <a href="mailto: anissafia110@gmail.com">
