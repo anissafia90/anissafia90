@@ -8,7 +8,19 @@
 
 # Hey there :wave:, I'm Anis, it's a pleasure to meet you!
 
-### A few things about me
+###I gladly 🧡🧡 welcome 🧡🧡 you to my GitHub profile.
+<p dir="auto">Here are some ideas to get you started:</p> 
+<ul dir="auto">
+<li>💻 I’m a software engineer - frontend</li>
+<li>⏳ I’m currently mastering my software engineering skills</li>
+<li>🌱 I’m currently building projects, collaborating and contributing to open source</li>
+<li>👯 I’m looking forward to connecting with more software engineers and collaborating with them on software engineering projects</li>
+<li>🤔 I’m looking for help with getting gigs, connections, paid internships and work opportunities</li>
+<li>💬 Ask me about anything frontend related</li>
+<li>😄 Nickname: anissafia90 </li>
+<li>⚡ Fun fact: I switched career to tech thinking it's an easy ride. Lmao!!! E hard die, though it's doable.</li>
+<li>📧 How to reach me: <a href="mailto:anissafia110@gmail.com">Mail Me</a></li>
+</ul>
 - I am full Stack web developer doing all things creative to make the web a more unique and awesome place.
 - Coffee, photography, music and art are my happy places 
 - I enjoy bringing a static design or idea to life and learning new technologies.
