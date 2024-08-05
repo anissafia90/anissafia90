@@ -4,7 +4,7 @@
 
 ---
 
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://www.linkedin.com/in/anis-safia/overlay/background-image/" alt="Anis  SAFIA Profile LinkedIn Banner" style="max-width: 100%;"></a></p>
 
 # Hey there :wave:, I'm Anis, it's a pleasure to meet you!
 
@@ -21,12 +21,6 @@
 <li>⚡ Fun fact: I switched career to tech thinking it's an easy ride. Lmao!!! E hard die, though it's doable.</li>
 <li>📧 How to reach me: <a href="mailto:anissafia110@gmail.com">Mail Me</a></li>
 </ul>
-- I am full Stack web developer doing all things creative to make the web a more unique and awesome place.
-- Coffee, photography, music and art are my happy places 
-- I enjoy bringing a static design or idea to life and learning new technologies.
-- Skilled in creating responsive designs, UI Design, HTML Emails, copywriting, and social media marketing.
-
-
 <br>
 
 ---
