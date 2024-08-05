@@ -4,7 +4,6 @@
 
 ---
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://www.linkedin.com/in/anis-safia/overlay/background-image/" alt="Anis  SAFIA Profile LinkedIn Banner" style="max-width: 100%;"></a></p>
 
 # Hey there :wave:, I'm Anis, it's a pleasure to meet you!
 
