@@ -47,6 +47,10 @@
   </div>
 
 ---
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+[![](https://visitcount.itsvg.in/api?id=anissafia90&icon=6&color=10)](https://visitcount.itsvg.in)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
 <div id="badges" align="center">
@@ -63,7 +67,16 @@
   <a href="mailto: anissafia110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
-  
-  
-  <h2>Talk to you soon!</h2>
 </div>
+
+
+<!--- G R E E T I N G   T E X T   A N D   I M A G E --->
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=74ff14&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
