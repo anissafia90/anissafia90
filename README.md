@@ -35,6 +35,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anissafia90&theme=chartreuse-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anissafia90&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anissafia90&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anissafia90&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 #### :book: CURRENTLY LEARNING :
 <div align="center">
