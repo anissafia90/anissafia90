@@ -2,7 +2,8 @@
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
 </div>
 
----
+---![ALX Certificate]([https://github.com/user-attachments/assets/439d2fa1-0f11-450b-a59e-4e899f4022ea](https://intranet.alxswe.com/certificates/MGnL2SpeXZ))
+
 
 
 # Hey there :wave:, I'm Anis, it's a pleasure to meet you!
