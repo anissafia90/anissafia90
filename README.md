@@ -2,7 +2,8 @@
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
 </div>
 
-![ALX Certificate]([https://intranet.alxswe.com/certificates/MGnL2SpeXZ)])
+[![View my ALX Certificate](https://github.com/anissafia90/Alx-Certificate/17-short-specializations-certificate-anis-safia.png)](https://intranet.alxswe.com/certificates/MGnL2SpeXZ)
+
 
 
 
